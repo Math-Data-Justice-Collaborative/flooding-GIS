@@ -25,19 +25,19 @@ Data from https://mycoast.org/search-reports?state=ri ArcGIS url:
 
 <u>https://services1.arcgis.com/tikbh7xC3WJpzTz6/arcgis/rest/services/MyCoast_RI/FeatureServer/ 0</u> 
 
-# **_Layer 2: “Stormwater Outfalls”_** 
+## **_Layer 2: “Stormwater Outfalls”_** 
 
 Data from: <u>https://providence-gis-hub-pvdgis.hub.arcgis.com/</u> ArcGIS url: 
 
 <u>https://services6.arcgis.com/wv9mHoqblhTsnqdG/arcgis/rest/services/ssDischargePoint/FeatureS erver/0</u> 
 
-# **_Layer 3: “FEMA Flood Hazards”_** 
+## **_Layer 3: “FEMA Flood Hazards”_** 
 
 Data from: <u>https://riema.ri.gov/planning-branch/floodplain-management/mapping</u> ArcGIS url: 
 
 <u>https://services5.arcgis.com/ilvOamkQCWQM5KB8/arcgis/rest/services/FEMA_FloodHazard_S tatewide/FeatureServer/0</u> 
 
-# **_Layer 4: “Mapping Inequality Redlining Areas”_** 
+## **_Layer 4: “Mapping Inequality Redlining Areas”_** 
 
 Data from: ArcGIS url: 
 
