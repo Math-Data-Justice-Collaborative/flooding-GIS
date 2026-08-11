@@ -4,9 +4,22 @@ Documents from ArcGIS containing stormwater outlets, FEMA flood models, redlinin
 
 
 <!-- Start of picture text -->
-VECINA Flood Map<br>Ae XY a) (EW rele<br>; Ci —__—_—_—— i on<br>Z,erdale od IR \ so FfL ra 3<br>s (Lv Xv we ey G R 4<br>mitho SA& a\“ Charles \95]Z Ukg~ dpe<br>)\endale Wanskuck ‘Ay eS 0<br>j Yor ~~ / Zp C14 \\ fA | Bae2 Pifilipsdale |<br>» a a/ St \ f,aq & y<br>{ Rhddelstand = v9 1 il rx oe Rumford<br>ma dolidge, 4, Elmh € y af<br>> = Vez Big oC f ~~<br>9 punt W ~ aw. C15 Al 7<br>“<br>Ne Pléasant - ~ TKN a Nog Agawam Hunt<br>Ruston : RCS TT \¢ yes aeae<br>\<br>(148) i canst \ Vie a yy)<br>\ a [Commercial and/or, Industrial] xe e<br>= Mog Valley 1 te E = aralllt fo" a<br>ri Pep)<br>Killingly Street iy Pleasant = Sa rm as B5 yhn : 3 b<br>id 6 sawpA% \ \ \ RAR,= Olney!*a  p=0,yy.Z Federal Hill » Rroviaersea 1,Aah) ‘“A BS “)‘ \<br>Lh i See Ch eo = som \<br>c19 rt = C20 i as ima ,<br>6 P| oie ape \<br>i ast %,<br>al « Providence {6 | \<br>Ave a Upper South 2 ) cig \<br>\ Silver Lake Providence CG Jf War,, \<br>Nt<br>on WestB8 tad \ . fletacomet aye~| "Ave<br>| §-F ~? C22 3 & |S 147<br>§ ‘ crane 4 = Lower Sou a<br>o } Hill C23 oe" BO © Providenca X 3 |<br>> /<br>RSwa RX \ c|S 4 id } Elmwood ao A Y IN ai A Is© .SS<br>4/20/2026 1:62,496<br>Mi vicomare UB ve conta fod zoe wth wave azar 0 0.4 0.8 1.6 mi<br>es Octane! pence are R——Y>>><br>Mi saps fcc Se needed ks ees Flood insurance is mandatory f you have a federally backed mortgage. Tp. sezansorse 2 _ 1 =m<br>Bat - High-risk area with established BFE (Base Flood Elevation). Areas with a 1% annual chance of flooding (also knownas the 100-year floodplain). Flood insurance is mandatory if you have a federally backed mortgage. Tc. tira Grace Robert K. Nelson, LaDaleWinling, Richard Marciano, Nathan Connolly, etal.,<br><!-- End of picture text -->
+# VECINA Flood Map
 
-# **_Layer 1:  “MyCoast RI” Community Data:_** 
+This document includes our overall map with an example image and the link to the Map Viewer map. This map is public to everyone, even if you don’t have an arcGIS account. With this map viewer, you are able to switch on and off the layers by clicking the eye symbol next to the layer name. This can be used to look at potential analysis points.
+This document also includes the four layers that were used to create this map, where the data was taken and edited from, and the link to the arcGIS layer. This will show up as an arcGIS webpage or an HTML with information about the layer. Unfortunately we were unable to download the files as physical shapefiles because they were locked by ESRI, but they are all visible on the overall map.
+
+StoryMaps Presentation: <u>https://arcg.is/1OGzH81</u>
+Overall Map
+Public URL: <u>https://arcg.is/1Sne89</u>
+
+
+* Flood insurance is mandatory if you have a federally backed mortgage. 
+* High-risk area with established BFE (Base Flood Elevation). Areas with a 1% annual chance of flooding (also knownas the 100-year floodplain). Flood insurance is mandatory if you have a federally backed mortgage. 
+
+# Layers
+
+## **_Layer 1:  “MyCoast RI” Community Data:_** 
 
 Data from https://mycoast.org/search-reports?state=ri ArcGIS url: 
 
